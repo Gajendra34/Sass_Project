@@ -2,7 +2,7 @@
 
 A responsive website with HTML and SASS/SCSS.
 
-<h2> SASS Gif </h2>
+<h2> SASS image </h2>
 
 ![](readme.png) 
 
